@@ -1,0 +1,26 @@
+{
+  "name": "lilac-cherry-blossom--dark-",
+  "displayName": "Lilac Cherry Blossom (Dark)",
+  "description": "Colours: Pale pink, dark red, lilac etc",
+  "version": "0.0.1",
+  "publisher": "MoustafaEl-Shaboury",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Moustafa-E/VSCode-Themes.git"
+  },
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lilac Cherry Blossom (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Lilac Cherry Blossom (Dark)-color-theme.json"
+      }
+    ]
+  }
+}
