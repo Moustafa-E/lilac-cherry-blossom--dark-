@@ -3,11 +3,18 @@
   "displayName": "Lilac Cherry Blossom (Dark)",
   "description": "Colours: Pale pink, dark red, lilac etc",
   "version": "0.0.1",
-  "publisher": "MoustafaEl-Shaboury",
+  "publisher": "Moustafa El-Shaboury",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Moustafa-E/VSCode-Themes.git"
+    "url": "https://github.com/Moustafa-E/lilac-cherry-blossom--dark-.git"
   },
+  "keywords": [
+    "dark",
+    "cherry blossom",
+    "lilac",
+    "moustafa el-shaboury",
+    "lilac cherry blossom"
+  ],
   "engines": {
     "vscode": "^1.74.0"
   },
