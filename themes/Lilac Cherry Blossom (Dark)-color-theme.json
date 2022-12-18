@@ -96,7 +96,7 @@
 		"listFilterWidget.background": "#100A1A30",
 		"listFilterWidget.noMatchesOutline": "#100A1A30",
 		"listFilterWidget.outline": "#100A1A30",
-		"menu.background": "#150F21",
+		"menu.background": "#1f1731",
 		"menu.border": "#78487800",
 		"menu.foreground": "#dccdff",
 		"menu.selectionBackground": "#1D162E",
@@ -193,6 +193,7 @@
 		"terminal.ansiYellow": "#FF006A",
 		"terminalCursor.background": "#100A1A",
 		"terminalCursor.foreground": "#FF006A",
+		"terminal.foreground": "#dccdff",
 		"textLink.activeForeground": "#dccdff",
 		"textLink.foreground": "#784878",
 		"titleBar.activeBackground": "#100A1A",
@@ -238,10 +239,10 @@
 		},
 		{
 		  "scope": [
-			"constant.other.php"
+			"constant.other.php",
 		  ],
 		  "settings": {
-			"foreground": "#da0178"
+			"foreground": "#da0178",
 		  }
 		},
 		{
@@ -806,7 +807,7 @@
 		  "keyword.operator.logical.c",
 		],  
 		  "settings": {
-			"foreground": "#a93274"
+			"foreground": "#da0178"
 		  }
 		},
 		{

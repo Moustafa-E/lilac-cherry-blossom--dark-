@@ -2,8 +2,6 @@
 
 All notable changes to the "lilac-cherry-blossom--dark-" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [0.05]
 
-## [Unreleased]
-
-- Initial release
+- Changed terminal font colour to match editor. 
